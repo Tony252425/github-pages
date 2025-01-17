@@ -1,0 +1,138 @@
+{
+  "IPTV Apps": [],
+  "Apps With Panels": [
+    {
+      "name": "Smarters Pro",
+      "description": "Simplify customization with AutoAPKS Panel's. Remotely configure services and settings for Smarters Pro, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "75.00",
+      "hosted_offer": "50.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://i.imgur.com/AgZMPD2.png",
+      "images": [
+        "https://i.imgur.com/gINBAtx.png",
+        "https://i.imgur.com/MRD9uPU.png",
+        "https://i.imgur.com/ufBBeAH.png",
+        "https://i.imgur.com/pQdbPI7.png",
+        "https://i.imgur.com/Q3Aesvm.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://t.me/"
+    },
+    {
+      "name": "AutoAPKS: Tivimate ",
+      "description": "Simplify customization with AutoAPKS Panel's Tivimate . Remotely configure services and settings for Tivimate, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "100.00",
+      "hosted_offer": "50.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-83nbp-producto-15.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_15/664606a7a2ad3_2087.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/tivimate"
+    },
+    {
+      "name": "AutoAPKS: XCIPTV",
+      "description": "Simplify customization with AutoAPKS Panel's xciptv. Remotely configure services and settings for xciptv, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "60.00",
+      "hosted_offer": "50.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-pk5v7-producto-16.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607ce0c464_3446.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607d6c7f2d_4046.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607de21ef1_6734.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607e44ce23_2821.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607eb13d0b_4677.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_16/664607f459b2a_3297.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://store.cockpit.lol/index.php?rp=/store/iptv-panel-modules/xciptv"
+    },
+    {
+      "name": "AutoAPKS: NexTv Module",
+      "description": "Simplify customization with Cockpit Panel's NexTv. Remotely configure services and settings for NexTv, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "50.00",
+      "hosted_offer": "",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-zrs74-producto-11.png",
+      "images": [""],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://t.me/"
+    },
+    {
+      "name": "AutoAPKS: Sparkle",
+      "description": "Simplify customization with Cockpit Panel's Sparkle. Remotely configure services and settings for Sparkle, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "40.00",
+      "hosted_offer": "",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-81i62-producto-13.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604ae0eec4_3637.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_13/664604b2da30a_1993.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://t.me/"
+    },
+    {
+      "name": "AutoAPKS: IBO",
+      "description": "Simplify customization with Cockpit Panel's IBO. Remotely configure services and settings for IBO, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "75.00",
+      "hosted_offer": "50.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-sv3er-producto-8.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600adab728_2088.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600b948c6a_2861.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600be96177_6837.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_8/664600c42b492_3053.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://t.me/"
+    }
+  ],
+  "VPN Apps": [
+    {
+      "name": "AutoAPKS: Private Internet Access",
+      "description": "Simplify customization with Cockpit Panel's PIA Module. Remotely configure services and settings for PIA, streamlining integration and enhancing user experiences from one intuitive platform.",
+      "hosted": "75.0",
+      "hosted_offer": "50.00",
+      "selfhosted": "",
+      "selfhosted_offer": "",
+      "sourcecode": "",
+      "sourcecode_offer": "",
+      "main_image": "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/imagen-f3ss9-producto-18.png",
+      "images": [
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_18/664609267680a_8505.png",
+        "https://store.cockpit.lol//modules/addons/elegantproductimages_addon/imagenes/img_productos/producto_18/6646092bacef5_5417.png"
+      ],
+      "ytvideo": "",
+      "telegram": "https://t.me/",
+      "purchase": "https://t.me/"
+    }
+  ]
+}
